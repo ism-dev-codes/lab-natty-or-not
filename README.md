@@ -1,51 +1,59 @@
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
-## 🚀 Introdução
+## 🚀 Video Criado com IA Generativa
 
 > Woooow! Look at this 👀
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+Olá pessoal, Ismael Medeiros aqui! Inspirado na hype _"Natty or Not"_, este projeto te convido a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+ **Explorando IAs Generativas**: Utilizei IA Generativa neste projeto para criar conteúdo que seja o mais realista possível! Na pegada nerd criei um vídeo de um futuro não tão distante onde as ias estão dominando o mundo.
+   
 
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Título do Projeto O Mundo esta sendo Dominado pela IA;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Neste projeto tulizei o Chatgpt para criar um prompt para a geracao do vidio. E pafa gerar o vidio utilizei o Sora da OpenIA.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
-
+ChatGPT e Sora
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Na vide uma uma pegada nerde me inspirando no filme o Exterminador do Futuro criei um video onde esta dando a noticia que a IA esta dominando o mundo. Como se as previsoes do filme estivesses se tornaram realidade!
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O resultado voce pode ver no vidio que eu crie que se encontra na pasta output.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+
 ```
 
-### Exemplos e Insigths
+## 👨‍💻 Expert
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+<p>
+    <img 
+      align=left 
+      margin=10 
+      width=80 
+      src="https://avatars.githubusercontent.com/u/105826184?v=4"
+    />
+    <p>&nbsp&nbsp&nbspIsmael Medeiros<br>
+    &nbsp&nbsp&nbsp
+    <a 
+        href="https://github.com/ism-dev-codes">
+        GitHub
+    </a>
+    &nbsp;|&nbsp;
+    <a 
+        href="https://www.linkedin.com/in/ismael-medeiros-5b2bb51ab/">
+        LinkedIn
+    </a>
+    &nbsp;|&nbsp;
+    <a 
+        href="https://www.instagram.com/ismaelsmedeiros?igsh=YXA1OW1mNXhkNmVy">
+        Instagram
+    </a>
+    &nbsp;|&nbsp;</p>
+</p>
+<br/><br/>
+<p>
