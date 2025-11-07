@@ -23,7 +23,7 @@ ChatGPT e Sora
 Na vide uma uma pegada nerde me inspirando no filme o Exterminador do Futuro criei um video onde esta dando a noticia que a IA esta dominando o mundo. Como se as previsoes do filme estivesses se tornaram realidade!
 
 ## 🚀 Resultados
-O resultado voce pode ver no vidio que eu crie que se encontra na pasta output.
+O resultado voce pode ver no link: output/Video Criado com IA Generativa.mp4
 
 
 ```
